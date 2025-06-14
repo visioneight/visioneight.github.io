@@ -2,6 +2,7 @@
 layout: post
 title: "Vision8 Devlog #0 – Why I'm Building This"
 date: 2025-06-13
+author: Nana Lee
 ---
 
 This summer, I’m building Vision8 — a vision testing and "tracking" app that runs entirely on a mobile device.
