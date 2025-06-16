@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vision8 Devlog #1 – Start Screen and First Interaction"
+title: "Vision8 Devlog #1 – Start Screen and Testing Interaction"
 date: 2025-06-15
 author: Nana Lee
 ---
