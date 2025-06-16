@@ -1,13 +1,9 @@
-from datetime import date
-
-# Create the Markdown content for the devlog
-devlog_md = f"""---
+---
 layout: post
 title: "Vision8 Devlog #1 – Start Screen and First Interaction"
-date: {date.today().isoformat()}
+date: 2025-06-15
 author: Nana Lee
 ---
-
 This weekend, I built the first working interaction in Vision8: a start screen and a basic vision test flow.
 
 👁️ The test is simple — you press "Start Test" and see an arrow on the screen.  
