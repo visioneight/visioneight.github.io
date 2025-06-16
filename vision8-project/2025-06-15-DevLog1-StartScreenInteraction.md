@@ -27,5 +27,12 @@ Many apps assume users can read text.
 But for someone who’s already struggling with blurry vision, asking them to *read* is asking them to fail.
 In the future, the buttons will be replaced by signs such as X and Os.
 
-This version removes that barrier.  
-You don’t have to read anything — just look, and tap.
+
+## 🌀 Naming and Logo Design
+
+So I decided to name this software **Vision8** a long time ago.  
+Since this is going to be presented on the App Store, I needed a logo.  
+I tried to blend the ideas of **vision**, **eight (8)** (which sounds like *aid*), and medical accessibility.  
+I scattered these three ideas, and decided to stick with this one:
+
+![Vision8 Logo](/image/visioninfinity.png)
