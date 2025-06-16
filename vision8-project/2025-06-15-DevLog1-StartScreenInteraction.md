@@ -6,9 +6,8 @@ author: Nana Lee
 ---
 This weekend, I built the first working interaction in Vision8: a start screen and a basic vision test flow.
 
-👁️ The test is simple — you press "Start Test" and see an arrow on the screen.  
-The app asks: *Did you see it?*  
-That's it. No swiping, no tiny buttons, no tricky gestures.
+The test is simple — you press "Start Test" and see an arrow on the screen.  
+
 
 ### What I built today
 
