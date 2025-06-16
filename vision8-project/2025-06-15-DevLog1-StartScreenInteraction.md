@@ -30,11 +30,3 @@ In the future, the buttons will be replaced by signs such as X and Os.
 
 This version removes that barrier.  
 You don’t have to read anything — just look, and tap.
-"""
-
-# Save the devlog as a Markdown file
-file_path = "/mnt/data/vision8-devlog-1.md"
-with open(file_path, "w") as f:
-    f.write(devlog_md)
-
-file_path
