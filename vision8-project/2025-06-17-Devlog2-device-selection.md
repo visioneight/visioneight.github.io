@@ -6,7 +6,7 @@
 
 ## Company Logo
 
-![Company Logo](/image/company_logo.jpeg)
+![Company Logo](/image/company_logo.png)
 
 ---
 
